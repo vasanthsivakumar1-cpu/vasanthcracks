@@ -1,2 +1,4 @@
-version  "186.9"
-libLink  "https://github.com/vasanthsivakumar1-cpu/vasanthcracks/raw/refs/heads/main/libpubgmBat4.so"
+{
+  "version": "186.9",
+  "libLink": "https://raw.githubusercontent.com/vasanthsivakumar1-cpu/vasanthcracks/main/libpubgmBat4.so"
+}
