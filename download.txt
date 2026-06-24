@@ -1,4 +1,4 @@
 {
   "version": "0.01",
-  "url": "https://raw.githubusercontent.com/hkgjdh/CID-LOADER/main/libHKCHEATS.so"
+  "url": "https://github.com/vasanthsivakumar1-cpu/vasanthcracks/raw/refs/heads/main/libHKCHEATS.so"
 }
